@@ -18,14 +18,14 @@ tracing back from the last actor's parent vertex back to the first actor.
 
 # How to install and run the project
 
-Download all the files and keep them in the same directory. Run "make" to compile the code:
+Download all the files and keep them in the same directory. Run "make" to compile the code: \
     ```
     make
-    ```
-After the code a compiled, an executable names "sixdegrees" is made. Two arguments are required: an input text file and output text file.
+    ``` \
+After the code a compiled, an executable named "sixdegrees" is made. Two arguments are required: an input text file and output text file. \
     ```
     ./sixdegrees input.txt output.txt
-    ```
+    ``` \
 The input txt can be any provided text file with two actor names in each line. The output text file contains the shortest path of each input(see input.txt
 and output.txt for reference).
 
