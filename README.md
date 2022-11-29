@@ -22,7 +22,7 @@ Download all the files and keep them in the same directory. Run "make" to compil
     ```
     make
     ``` \
-After the code a compiled, an executable named "sixdegrees" is made. Two arguments are required: an input text file and output text file. \
+After the code is compiled, an executable named "sixdegrees" is made. Two arguments are required: an input text file and output text file. \
     ```
     ./sixdegrees input.txt output.txt
     ``` \
