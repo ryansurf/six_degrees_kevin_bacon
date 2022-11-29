@@ -4,7 +4,7 @@
 
 This program is a twist on the "Six Degrees of Kevin Bacon" game(https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon). The program takes two actors
 as input and finds the shortest path between them(actors are connected via co-actors). For example, if we want to find the path between the two actors
-Brad Pitt and Tom Cruise, the program will output: "Brad_Pitt -(Moneyball:_Playing_the_Game)- Philip_Seymour_Hoffman -(The_Making_of_the_Mission)- Tom_Cruise".
+Brad Pitt and Tom Cruise, the program will output:\ "Brad_Pitt -(Moneyball:_Playing_the_Game)- Philip_Seymour_Hoffman -(The_Making_of_the_Mission)- Tom_Cruise". \
 This means that: Brad Pitt acted with Philip Seymour Hoffman in Moneyball and Philip Seymour Hoffman acted with Tom Cruise in The Making of the Mission.
 
 # How it works
